@@ -1,0 +1,2 @@
+# Digital-Innovation-One-Criando-uma-solu-o-de-e-commerce-com-microsservi-os-em-Java-Neste-proje
+Digital Innovation One  ## Criando uma solução de e-commerce com microsserviços em Java  Neste projeto foi desenvolvida uma solução de e-commerce com a arquitetura de microsserviços, com a integração orientada a eventos utilizando o *Apache Kafka* e o *Schema Registry* para garantir a compatibilidade na comunicação.  ![Architecture](docs/arch.png)  ---
